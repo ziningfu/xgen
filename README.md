@@ -11,7 +11,7 @@ Java is claimed as "write once, run everywhere", well, with limitation - where V
 
 <b>Hah? Too good to believe? Is it possible?</b>
 
-A live sample is make in Wiki page:
+A live sample is made in Wiki page:
 
 https://github.com/ziningfu/xgen/wiki
 
