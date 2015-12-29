@@ -11,7 +11,11 @@ Java is claimed as "write once, run everywhere", well, with limitation - where V
 
 <b>Hah? Too good to believe? Is it possible?</b>
 
-A live sample will be demonstrated to show you how. I will upload design documents. The design of the language and system is in progress.
+A live sample is make in Wiki page:
+
+https://github.com/ziningfu/xgen/wiki
+
+You judge.
 
 <b>Does this system depend on anything to support a new programing language?</b>
 
