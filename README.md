@@ -43,4 +43,4 @@ Contributions to xGen are more than welcome! You will see how big it is. To supp
 
 <b>Is it too big to build?</b>
 
-Do not be scared. The core code of the project will be very small, say, hundreds or thousands of lines, and will be very stable. It will not change because of adding any new sets of rules for supporting new programing languages. Major efforts will be on building and debugging rules.
+Don't worry. The core code of the project will be very small, say, hundreds or thousands of lines, and will be very stable. It will not change because of adding any new sets of rules for supporting new programing languages. Major efforts will be on building and debugging rules.
